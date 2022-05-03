@@ -1,5 +1,4 @@
 # @dev Functions related to merkle tree.
-# @author Ryuya Nakamura (@nrryuya)
 
 @private
 @constant

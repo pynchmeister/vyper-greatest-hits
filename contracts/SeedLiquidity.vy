@@ -1,8 +1,6 @@
 # @version 0.2.8
 """
 @title Pool tokens to seed Uniswap liquidity
-@license MIT
-@author banteg
 @notice Use this contract to boostrap a Uniswap exchange
 """
 from vyper.interfaces import ERC20
